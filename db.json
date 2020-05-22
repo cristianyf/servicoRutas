@@ -1,51 +1,48 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "Routes": {
-"state": "01",
-"data": [
+" publicaciones ": [
 {
-"route": "Apto",
-"latitude": "4.419899",
-"longitude": "-75.177786"
+" id ": 1,
+" title ": " hola "
+}
+],
+" perfil ": {
+" nombre ": " tipicode "
+},
+" Rutas ": [
+{
+" ruta ": " Apto ",
+" latitud ": " 4.419899 ",
+" longitud ": " -75.177786 "
 },
 {
-"route": "Grilled",
-"latitude": "4.419632",
-"longitude": "-75.176153"
+" ruta ": "A la parrilla ",
+" latitud ": " 4.419632 ",
+" longitud ": " -75.176153 "
 },
 {
-"route": "Fortezza1",
-"latitude": "4.419231",
-"longitude": "-75.175010"
+" ruta ": " Fortezza1 ",
+" latitud ": " 4.419231 ",
+" longitud ": " -75.175010 "
 },
 {
-"route": "Transito",
-"latitude": "4.416666",
-"longitude": "-75.175506"
+" ruta ": " Tránsito ",
+" latitud ": " 4.416666 ",
+" longitud ": " -75.175506 "
 },
 {
-"route": "Salento",
-"latitude": "4.421539",
-"longitude": "-75.177409"
+" ruta ": " Salento ",
+" latitud ": " 4.421539 ",
+" longitud ": " -75.177409 "
 },
 {
-"route": "Glorieta",
-"latitude": "4.422244",
-"longitude": "-75.175929"
+" ruta ": " Glorieta ",
+" latitud ": " 4.422244 ",
+" longitud ": " -75.175929 "
 },
 {
-"route": "Medicadiz",
-"latitude": "4.424906",
-"longitude": "-75.176307"
+" ruta ": " Medicadiz ",
+" latitud ": " 4.424906 ",
+" longitud ": " -75.176307 "
 }
 ]
-    }
 }
