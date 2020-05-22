@@ -12,53 +12,39 @@
 "estado" : "01" ,
 "datos" : [
 {
-"srv_id" : "10" ,
 "ruta" : "Apto" ,
 "latitud" : "4.419899" ,
-"longitud" : "-75.177786" ,
-"vst_id" : "303"
+"longitud" : "-75.177786"
 },
 {
-"srv_id" : "10" ,
 "ruta" : "A la parrilla" ,
 "latitud" : "4.419632" ,
-"longitud" : "-75.176153" ,
-"vst_id" : "303"
+"longitud" : "-75.176153"
 },
 {
-"srv_id" : "10" ,
 "ruta" : "Fortezza1" ,
 "latitud" : "4.419231" ,
-"longitud" : "-75.175010" ,
-"vst_id" : "303"
+"longitud" : "-75.175010"
 },
 {
-"srv_id" : "10" ,
 "ruta" : "Tránsito" ,
 "latitud" : "4.416666" ,
-"longitud" : "-75.175506" ,
-"vst_id" : "303"
+"longitud" : "-75.175506"
 },
 {
-"srv_id" : "10" ,
 "ruta" : "Salento" ,
 "latitud" : "4.421539" ,
-"longitud" : "-75.177409" ,
-"vst_id" : "303"
+"longitud" : "-75.177409"
 },
 {
-"srv_id" : "10" ,
 "ruta" : "Glorieta" ,
 "latitud" : "4.422244" ,
-"longitud" : "-75.175929" ,
-"vst_id" : "303"
+"longitud" : "-75.175929"
 },
 {
-"srv_id" : "10" ,
 "ruta" : "Medicadiz" ,
 "latitud" : "4.424906" ,
-"longitud" : "-75.176307" ,
-"vst_id" : "303"
+"longitud" : "-75.176307"
 }
 ]
 }
