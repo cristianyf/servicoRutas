@@ -8,41 +8,29 @@
 " perfil ": {
 " nombre ": " tipicode "
 },
-" Rutas ": [
 {
-" ruta ": " Apto ",
-" latitud ": " 4.419899 ",
-" longitud ": " -75.177786 "
+"publicaciones" : [
+{
+"id" : 1 ,
+"title" : "hola"
+}
+],
+"perfil" : {
+"nombre" : "tipicode"
+},
+"Rutas" : [
+{
+"rutas" : {
+"br" : "Afeganistão" ,
+"pt" : "Afeganistão"
+}
 },
 {
-" ruta ": "A la parrilla ",
-" latitud ": " 4.419632 ",
-" longitud ": " -75.176153 "
-},
-{
-" ruta ": " Fortezza1 ",
-" latitud ": " 4.419231 ",
-" longitud ": " -75.175010 "
-},
-{
-" ruta ": " Tránsito ",
-" latitud ": " 4.416666 ",
-" longitud ": " -75.175506 "
-},
-{
-" ruta ": " Salento ",
-" latitud ": " 4.421539 ",
-" longitud ": " -75.177409 "
-},
-{
-" ruta ": " Glorieta ",
-" latitud ": " 4.422244 ",
-" longitud ": " -75.175929 "
-},
-{
-" ruta ": " Medicadiz ",
-" latitud ": " 4.424906 ",
-" longitud ": " -75.176307 "
+"rutas" : {
+"br" : "Afeganistão" ,
+"pt" : "Afeganistão"
+}
 }
 ]
+}
 }
