@@ -1,36 +1,25 @@
 {
-" publicaciones ": [
+"posts": [
 {
-" id ": 1,
-" title ": " hola "
+"id": 1,
+"title": "hello"
 }
 ],
-" perfil ": {
-" nombre ": " tipicode "
+"profile": {
+"name": "typicode"
 },
+" Rutas ": [
 {
-"publicaciones" : [
-{
-"id" : 1 ,
-"title" : "hola"
-}
-],
-"perfil" : {
-"nombre" : "tipicode"
-},
-"Rutas" : [
-{
-"rutas" : {
-"br" : "Afeganistão" ,
-"pt" : "Afeganistão"
+"routes": {
+"br": "Afeganistão",
+"pt": "Afeganistão"
 }
 },
 {
-"rutas" : {
-"br" : "Afeganistão" ,
-"pt" : "Afeganistão"
+"routes": {
+"br": "Afeganistão",
+"pt": "Afeganistão"
 }
 }
 ]
-}
 }
