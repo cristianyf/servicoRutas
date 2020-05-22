@@ -1,230 +1,58 @@
 {
-"posts": [
+" publicaciones ": [
 {
-"id": 1,
-"title": "hello"
+" id ": 1,
+" title ": " hola "
 }
 ],
-"profile": {
-"name": "typicode"
+" perfil ": {
+" nombre ": " tipicode "
 },
-"Rutas": [
+" Rutas ": [
 {
-"alpha2Code": "AF",
-"alpha3Code": "AFG",
-"altSpellings": [
-"AF",
-"Afġānistān"
-],
-"area": 652230,
-"borders": [
-"IRN",
-"PAK",
-"TKM",
-"UZB",
-"TJK",
-"CHN"
-],
-"callingCodes": [
-"93"
-],
-"capital": "Kabul",
-"currencies": [
+" rutero ": {
+" ruta ": " Apto ",
+" latitud ": " 4.419899 ",
+" longitud ": " -75.177786 "
+}
+},
 {
-"code": "AFN",
-"name": "Afghan afghani",
-"symbol": "؋"
+" rutero ": {
+" ruta ": " Fortezza1 ",
+" latitud ": " 4.419231 ",
+" longitud ": " -75.175010 "
+}
+},
+{
+" rutero ": {
+" ruta ": " Tránsito ",
+" latitud ": " 4.416666 ",
+" longitud ": " -75.175506 "
+}
+},
+{
+" rutero ": {
+" ruta ": " Salento ",
+" latitud ": " 4.421539 ",
+" longitud ": " -75.177409 "
+}
+},
+{
+" rutero ": {
+" ruta ": " Salento ",
+" latitud ": " 4.421539 ",
+" longitud ": " -75.177409 "
+}
+},
+{
+" rutero ": {
+" ruta ": " Medicadiz ",
+" latitud ": " 4.424906 ",
+" longitud ": " -75.176307 "
+}
 }
 ],
-"demonym": "Afghan",
-"flagPNG": "https://raw.githubusercontent.com/DevTides/countries/master/afg.png",
-"gini": 27.8,
-"languages": [
-{
-"iso639_1": "ps",
-"iso639_2": "pus",
-"name": "Pashto",
-"nativeName": "پښتو"
-},
-{
-"iso639_1": "uz",
-"iso639_2": "uzb",
-"name": "Uzbek",
-"nativeName": "Oʻzbek"
-},
-{
-"iso639_1": "tk",
-"iso639_2": "tuk",
-"name": "Turkmen",
-"nativeName": "Türkmen"
+" universidad ": {
+" nombre ": " ucc "
 }
-],
-"latlng": [
-33,
-65
-],
-"name": "Afghanistan",
-"nativeName": "افغانستان",
-"numericCode": "004",
-"population": 27657145,
-"region": "Asia",
-"regionalBlocs": [
-{
-"acronym": "SAARC",
-"name": "South Asian Association for Regional Cooperation"
-}
-],
-"subregion": "Southern Asia",
-"timezones": [
-"UTC+04:30"
-],
-"topLevelDomain": [
-".af"
-],
-"translations": {
-"br": "Afeganistão",
-"de": "Afghanistan",
-"es": "Afganistán",
-"fa": "افغانستان",
-"fr": "Afghanistan",
-"hr": "Afganistan",
-"it": "Afghanistan",
-"ja": "アフガニスタン",
-"nl": "Afghanistan",
-"pt": "Afeganistão"
-},
-"cioc": "AFG"
-},
-{
-"alpha2Code": "ZW",
-"alpha3Code": "ZWE",
-"altSpellings": [
-"ZW",
-"Republic of Zimbabwe"
-],
-"area": 390757,
-"borders": [
-"BWA",
-"MOZ",
-"ZAF",
-"ZMB"
-],
-"callingCodes": [
-"263"
-],
-"capital": "Harare",
-"currencies": [
-{
-"code": "BWP",
-"name": "Botswana pula",
-"symbol": "P"
-},
-{
-"code": "GBP",
-"name": "British pound",
-"symbol": "£"
-},
-{
-"code": "CNY",
-"name": "Chinese yuan",
-"symbol": "¥"
-},
-{
-"code": "EUR",
-"name": "Euro",
-"symbol": "€"
-},
-{
-"code": "INR",
-"name": "Indian rupee",
-"symbol": "₹"
-},
-{
-"code": "JPY",
-"name": "Japanese yen",
-"symbol": "¥"
-},
-{
-"code": "ZAR",
-"name": "South African rand",
-"symbol": "Rs"
-},
-{
-"code": "USD",
-"name": "United States dollar",
-"symbol": "$"
-},
-{
-"code": "(none)",
-"name": null,
-"symbol": null
-}
-],
-"demonym": "Zimbabwean",
-"flagPNG": "https://raw.githubusercontent.com/DevTides/countries/master/zwe.png",
-"gini": null,
-"languages": [
-{
-"iso639_1": "en",
-"iso639_2": "eng",
-"name": "English",
-"nativeName": "English"
-},
-{
-"iso639_1": "sn",
-"iso639_2": "sna",
-"name": "Shona",
-"nativeName": "chiShona"
-},
-{
-"iso639_1": "nd",
-"iso639_2": "nde",
-"name": "Northern Ndebele",
-"nativeName": "isiNdebele"
-}
-],
-"latlng": [
--20,
-30
-],
-"name": "Zimbabwe",
-"nativeName": "Zimbabwe",
-"numericCode": "716",
-"population": 14240168,
-"region": "Africa",
-"regionalBlocs": [
-{
-"acronym": "AU",
-"name": "African Union",
-"otherNames": [
-"الاتحاد الأفريقي",
-"Union africaine",
-"União Africana",
-"Unión Africana",
-"Umoja wa Afrika"
-]
-}
-],
-"subregion": "Eastern Africa",
-"timezones": [
-"UTC+02:00"
-],
-"topLevelDomain": [
-".zw"
-],
-"translations": {
-"br": "Zimbabwe",
-"de": "Simbabwe",
-"es": "Zimbabue",
-"fa": "زیمباوه",
-"fr": "Zimbabwe",
-"hr": "Zimbabve",
-"it": "Zimbabwe",
-"ja": "ジンバブエ",
-"nl": "Zimbabwe",
-"pt": "Zimbabué"
-},
-"cioc": "ZIM"
-}
-]
 }
